@@ -48,3 +48,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 22.2-criando-consulta-para-dados-por-categoria
 * 22.3-retornando-os-dados-estatisticos-de-lancamento-por-categoria
 * 22.4-criando-consulta-para-dados-por-dia
+* 22.5-retornando-os-dados-estatisticos-de-lancamento-por-dia
