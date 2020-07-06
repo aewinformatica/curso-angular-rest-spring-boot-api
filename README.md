@@ -37,3 +37,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 6.13 Desafio - Finalizando permissoes de acesso
 * 6.14 Implementando o logout
 * 7.1 Implementando projecao de lancamento
+* 7.2 Profiles do Spring
