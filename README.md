@@ -20,3 +20,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 5.3 Desafio - Cadastrando o primeiro lancamento
 * 5.4 Validando incosistencias
 * 5.5 Validando lancamento com Bean Validation
+* 5.6 Regra para nao salvar pessoa inativa
