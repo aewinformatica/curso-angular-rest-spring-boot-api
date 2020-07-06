@@ -41,3 +41,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 7.3 Profiles para Basic e OAuth security
 * 7.5-nome-do-usuario-no-jwt
 * 7.6-alternando-oauth-e-basic-security-com-profiles
+* 7.7-desafio-pesquisa-de-pessoas
