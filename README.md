@@ -9,3 +9,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 3.7 Desafio - Retornar 404 caso nao exista a categoria
 * 3.8 Validando atributos desconhecidos
 * 3.9 Tratando erros com ExceptionHandler
+* 3.10 Validando valores invalidos com Bean Validation
