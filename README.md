@@ -5,3 +5,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 3.2 Conectando ao MySQL
 * 3.3 Migracao de dados com Flyway
 * 3.4 Consultando primeiro recurso com GET
+* 3.6 Cadastrando nova categoria com POST
