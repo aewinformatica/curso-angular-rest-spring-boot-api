@@ -18,3 +18,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 5.1 Criando a migracao e entidade de lancamento
 * 5.2 Desafio - Lista e busca de lancamentos
 * 5.3 Desafio - Cadastrando o primeiro lancamento
+* 5.4 Validando incosistencias
