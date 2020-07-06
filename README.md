@@ -10,3 +10,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 3.8 Validando atributos desconhecidos
 * 3.9 Tratando erros com ExceptionHandler
 * 3.10 Validando valores invalidos com Bean Validation
+* 3.11 Desafio - Criando o cadastro de pessoa
