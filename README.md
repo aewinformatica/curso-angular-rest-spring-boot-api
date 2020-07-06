@@ -39,3 +39,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 7.1 Implementando projecao de lancamento
 * 7.2 Profiles do Spring
 * 7.3 Profiles para Basic e OAuth security
+* 7.5-nome-do-usuario-no-jwt
