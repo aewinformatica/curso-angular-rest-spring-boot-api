@@ -44,3 +44,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 7.7-desafio-pesquisa-de-pessoas
 * 7.8-ajuste-cep
 * 7.9-desafio-atualizacao-lancamento
+* 22.1-preparacao-para-o-retorno-dos-dados-para-os-graficos
