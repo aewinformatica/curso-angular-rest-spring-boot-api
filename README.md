@@ -11,3 +11,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 3.9 Tratando erros com ExceptionHandler
 * 3.10 Validando valores invalidos com Bean Validation
 * 3.11 Desafio - Criando o cadastro de pessoa
+* 3.12 Usando eventos para adicionar header Location
