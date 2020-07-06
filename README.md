@@ -30,3 +30,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 6.6 Renovando o access token com o refresh token
 * 6.7 Movendo o refresh token para o cookie
 * 6.8 Movendo o refresh token do cookie para a requisicao
+* 6.9 O que e CORS_
