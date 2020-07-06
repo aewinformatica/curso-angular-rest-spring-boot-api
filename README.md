@@ -26,3 +26,5 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 5.9 Implementando a paginacao de lancamentos
 * 6.1 Implementando autenticacao BASIC
 * 6.3 Implementando a seguranca com oauth2
+* 6.5 Configurando JWT no projeto
+* 6.6 Renovando o access token com o refresh token
