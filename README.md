@@ -35,3 +35,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 6.11 Movendo o usuario para o banco de dados
 * 6.12 Adicionando permissoes de acesso
 * 6.13 Desafio - Finalizando permissoes de acesso
+* 6.14 Implementando o logout
