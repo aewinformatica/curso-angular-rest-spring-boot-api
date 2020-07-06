@@ -32,3 +32,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 6.8 Movendo o refresh token do cookie para a requisicao
 * 6.9 O que e CORS_
 * 6.10 Criando filtro para CORS
+* 6.11 Movendo o usuario para o banco de dados
