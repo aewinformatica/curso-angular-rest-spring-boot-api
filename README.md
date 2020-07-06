@@ -13,3 +13,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 3.11 Desafio - Criando o cadastro de pessoa
 * 3.12 Usando eventos para adicionar header Location
 * 4.1 Removendo pessoa com DELETE
+* 4.3 Atualizando pessoa com PUT
