@@ -22,3 +22,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 5.5 Validando lancamento com Bean Validation
 * 5.6 Regra para nao salvar pessoa inativa
 * 5.7 Implementando pesquisa de lancamento com Metamodel
+* 5.8 Desafio - Removendo lancamentos
