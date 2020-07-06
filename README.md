@@ -24,3 +24,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 5.7 Implementando pesquisa de lancamento com Metamodel
 * 5.8 Desafio - Removendo lancamentos
 * 5.9 Implementando a paginacao de lancamentos
+* 6.1 Implementando autenticacao BASIC
