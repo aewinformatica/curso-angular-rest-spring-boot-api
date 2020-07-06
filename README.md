@@ -16,3 +16,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 4.3 Atualizando pessoa com PUT
 * 4.4 Implementando atualizacao parcial com PUT
 * 5.1 Criando a migracao e entidade de lancamento
+* 5.2 Desafio - Lista e busca de lancamentos
