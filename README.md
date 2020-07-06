@@ -46,3 +46,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 7.9-desafio-atualizacao-lancamento
 * 22.1-preparacao-para-o-retorno-dos-dados-para-os-graficos
 * 22.2-criando-consulta-para-dados-por-categoria
+* 22.3-retornando-os-dados-estatisticos-de-lancamento-por-categoria
