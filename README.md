@@ -29,3 +29,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 6.5 Configurando JWT no projeto
 * 6.6 Renovando o access token com o refresh token
 * 6.7 Movendo o refresh token para o cookie
+* 6.8 Movendo o refresh token do cookie para a requisicao
