@@ -63,3 +63,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 22.18-configurando-o-template-para-o-envio-do-email
 * 22.19-processando-o-template-e-enviando-o-email
 * 22.20-buscando-lancamentos-vencidos-com-spring-data-jpa
+* 22.21-agendando-o-envio-de-email
