@@ -61,3 +61,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 22.16-configurando-o-envio-de-email
 * 22.17-enviando-um-email-simples
 * 22.18-configurando-o-template-para-o-envio-do-email
+* 22.19-processando-o-template-e-enviando-o-email
