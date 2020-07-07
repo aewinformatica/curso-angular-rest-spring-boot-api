@@ -68,3 +68,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 22.23-criando-a-entidade-contato-para-suportar-mestre-detalhe
 * 22.24-resolvendo-o-stackoverflowerror-com-jsonignoreproperties
 * 22.25-inserindo-uma-pessoa-com-contato
+* 22.26-usando-a-propriedade-orphan-removal
