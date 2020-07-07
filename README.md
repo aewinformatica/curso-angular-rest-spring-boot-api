@@ -58,3 +58,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 22.13-gerando-os-bytes-do-relatorio
 * 22.14-retornando-os-bytes-do-relatorio-na-requisicao
 * 22.15-criando-um-agendamento-de-tarefa-scheduler
+* 22.16-configurando-o-envio-de-email
