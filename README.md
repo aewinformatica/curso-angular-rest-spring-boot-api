@@ -77,3 +77,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 22.33-enviando-arquivos-para-o-s3
 * 22.34-anexando-arquivo-no-lancamento
 * 22.35-atualizando-e-removendo-anexo
+* 22.36-configurando-url-do-anexo
