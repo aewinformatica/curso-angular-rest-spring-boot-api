@@ -54,3 +54,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 22.9-criando-os-campos-e-parametros-do-relatorio
 * 22.10-ajustando-o-titulo-e-rodape-do-relatorio
 * 22.11-usando-os-campos-do-dto-no-relatorio
+* 22.12-criando-a-consulta-do-relatorio
