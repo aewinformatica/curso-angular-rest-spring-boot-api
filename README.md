@@ -79,3 +79,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 22.35-atualizando-e-removendo-anexo
 * 22.36-configurando-url-do-anexo
 * 24.01-criando-entidades-cidade-e-estado
+* 24.02-criando-pesquisa-de-estados-e-cidades
