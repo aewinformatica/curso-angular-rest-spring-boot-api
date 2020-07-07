@@ -81,3 +81,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 24.01-criando-entidades-cidade-e-estado
 * 24.02-criando-pesquisa-de-estados-e-cidades
 * 25.01-alterando-o-pom
+* 25.02-novas-assinaturas-do-spring-data-jpa
