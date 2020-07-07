@@ -54,11 +54,6 @@ public class Lancamento {
 	@JoinColumn(name = "codigo_pessoa")
 	private Pessoa pessoa;
 	
-	@JsonIgnore
-	public boolean isReceita() {
-		return TipoLancamento.RECEITA.equals(this.tipo);
-	}
-
 	public Long getCodigo() {
 		return codigo;
 	}
