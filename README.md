@@ -71,3 +71,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 22.26-usando-a-propriedade-orphan-removal
 * 22.27-ignorando-contatos-da-pessoa-na-pesquisa-de-lancamento
 * 22.28-recebendo-arquivos-na-api
+* 22.30-configurando-o-servico-s3
