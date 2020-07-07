@@ -74,3 +74,4 @@ API REST DE LANCAMENTOS DE RECEITAS E DESPESAS
 * 22.30-configurando-o-servico-s3
 * 22.31-criando-o-bucket-no-s3-automaticamente
 * 22.32-implementando-o-envio-do-arquivo-para-o-s3
+* 22.33-enviando-arquivos-para-o-s3
