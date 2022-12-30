@@ -17,7 +17,7 @@ import com.amazonaws.services.s3.model.lifecycle.LifecycleFilter;
 import com.amazonaws.services.s3.model.lifecycle.LifecycleTagPredicate;
 import com.example.algamoney.api.config.property.AlgamoneyApiProperty;
 
-@Configuration
+//@Configuration
 public class S3Config {
 	
 	@Autowired

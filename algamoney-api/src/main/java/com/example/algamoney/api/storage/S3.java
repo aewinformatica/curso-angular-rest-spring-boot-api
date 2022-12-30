@@ -24,7 +24,7 @@ import com.amazonaws.services.s3.model.SetObjectTaggingRequest;
 import com.amazonaws.services.s3.model.Tag;
 import com.example.algamoney.api.config.property.AlgamoneyApiProperty;
 
-@Component
+//@Component
 public class S3 {
 	
 	private static final Logger logger = LoggerFactory.getLogger(S3.class);

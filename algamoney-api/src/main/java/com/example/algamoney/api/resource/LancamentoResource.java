@@ -63,15 +63,15 @@ public class LancamentoResource {
 	@Autowired
 	private MessageSource messageSource;
 	
-	@Autowired
-	private S3 s3;
-	
-	@PostMapping("/anexo")
-	@PreAuthorize("hasAuthority('ROLE_CADASTRAR_LANCAMENTO') and #oauth2.hasScope('write')")
-	public Anexo uploadAnexo(@RequestParam MultipartFile anexo) throws IOException {
-		String nome = s3.salvarTemporariamente(anexo);
-		return new Anexo(nome, s3.configurarUrl(nome));
-	}
+//	@Autowired
+//	private S3 s3;
+//	
+//	@PostMapping("/anexo")
+//	@PreAuthorize("hasAuthority('ROLE_CADASTRAR_LANCAMENTO') and #oauth2.hasScope('write')")
+//	public Anexo uploadAnexo(@RequestParam MultipartFile anexo) throws IOException {
+//		String nome = s3.salvarTemporariamente(anexo);
+//		return new Anexo(nome, s3.configurarUrl(nome));
+//	}
 	
 	@GetMapping("/relatorios/por-pessoa")
 	@PreAuthorize("hasAuthority('ROLE_PESQUISAR_LANCAMENTO') and #oauth2.hasScope('read')")
